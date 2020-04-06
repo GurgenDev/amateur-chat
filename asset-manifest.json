@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/amateur-chat/static/css/main.bf222b9c.chunk.css",
+    "main.js": "/amateur-chat/static/js/main.ab490dce.chunk.js",
+    "main.js.map": "/amateur-chat/static/js/main.ab490dce.chunk.js.map",
+    "runtime-main.js": "/amateur-chat/static/js/runtime-main.a80b7b11.js",
+    "runtime-main.js.map": "/amateur-chat/static/js/runtime-main.a80b7b11.js.map",
+    "static/js/2.c59694f4.chunk.js": "/amateur-chat/static/js/2.c59694f4.chunk.js",
+    "static/js/2.c59694f4.chunk.js.map": "/amateur-chat/static/js/2.c59694f4.chunk.js.map",
+    "index.html": "/amateur-chat/index.html",
+    "precache-manifest.057db63c076cfd0488b79b4dd28a8a86.js": "/amateur-chat/precache-manifest.057db63c076cfd0488b79b4dd28a8a86.js",
+    "service-worker.js": "/amateur-chat/service-worker.js",
+    "static/css/main.bf222b9c.chunk.css.map": "/amateur-chat/static/css/main.bf222b9c.chunk.css.map",
+    "static/js/2.c59694f4.chunk.js.LICENSE": "/amateur-chat/static/js/2.c59694f4.chunk.js.LICENSE",
+    "static/media/conversation.svg": "/amateur-chat/static/media/conversation.73a696ab.svg",
+    "static/media/geo.svg": "/amateur-chat/static/media/geo.ad94eca3.svg",
+    "static/media/loader.svg": "/amateur-chat/static/media/loader.f1db42a2.svg",
+    "static/media/network.svg": "/amateur-chat/static/media/network.a92d292a.svg",
+    "static/media/research.svg": "/amateur-chat/static/media/research.62b9c530.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80b7b11.js",
+    "static/js/2.c59694f4.chunk.js",
+    "static/css/main.bf222b9c.chunk.css",
+    "static/js/main.ab490dce.chunk.js"
+  ]
+}
